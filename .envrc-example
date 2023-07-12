@@ -1,0 +1,2 @@
+export SONARR_API_KEY=""
+export RADARR_API_KEY=""
